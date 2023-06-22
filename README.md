@@ -2,6 +2,8 @@
 
 ![GitHub Snake](assets/github-contribution-grid-snake.svg)
 
+
+## My Stats
 <a>
   <img align="right" width="450px" src="./github-metrics.svg" />
 </a>
