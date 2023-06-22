@@ -1,3 +1,5 @@
+# Hi there 👋
+
 ![GitHub Snake](assets/github-contribution-grid-snake.svg)
 
 <a>
@@ -11,4 +13,10 @@
 
 <!-- [![Esing's GitHub stats](https://mystats-rosy.vercel.app/api?username=Zxis233&count_private=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[//]:(&title_color=35ffba&text_color=feeeed)
+<!-- [//]:(&title_color=35ffba&text_color=feeeed) -->
+
+## I'm **Mix**
+
+- 🔭 I’m curious about everything!
+
+- 🌱 I’m currently learning: Go !
