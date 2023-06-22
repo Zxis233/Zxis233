@@ -1,0 +1,24 @@
+name: Contribution Snake
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 */4 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            ./assets/github-contribution-grid-snake.gif
+            ./assets/github-contribution-grid-snake.svg
+            ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: 'Generate Contribution Snake - [Skip GitHub Action]'
