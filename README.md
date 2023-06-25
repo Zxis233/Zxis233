@@ -10,7 +10,7 @@
 </a>
 
 <p align="center">
-  <img width="300px" src="https://count.getloli.com/get/@Zxis233?theme=rule33"></img>
+  <img width="300px" src="https://count.getloli.com/get/@Zxis233?theme=rule34"></img>
 </img>
 </p>
 <br/>
