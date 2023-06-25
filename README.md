@@ -15,7 +15,7 @@
 </p>
 <br/>
 <p align="center">
-  <img width="300px" src="https://mystats-rosy.vercel.app/api/top-langs/?username=Zxis233&layout=compact&bg_color=d4dde1"></img>
+  <img width="300px" src="https://mystats-rosy.vercel.app/api/top-langs/?username=Zxis233&layout=compact&theme=transparent"></img>
 </p>
 <br/>
 
