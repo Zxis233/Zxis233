@@ -38,6 +38,11 @@
 
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=fff)
 ![](https://img.shields.io/badge/-Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=fff)
+![](https://img.shields.io/badge/-PremierPro-8a1874?style=flat-square&logo=adobepremierepro&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Arduino-008184?style=flat-square&logo=Arduino&logoColor=fff)
+![](https://img.shields.io/badge/-Markdown-9aa7b1?style=flat-square&logo=markdown&logoColor=fff)
+![](https://img.shields.io/badge/-C++-e18a3b?style=flat-square&logo=cplusplus&logoColor=fff)
+![](https://img.shields.io/badge/-Pug-4c8045?style=flat-square&logo=pug&logoColor=fff)
