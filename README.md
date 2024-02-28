@@ -37,7 +37,7 @@
 ## **My Skills** 🌟  
 
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=000)
 ![](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=fff)
 ![](https://img.shields.io/badge/-Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=fff)
 ![](https://img.shields.io/badge/-PremierPro-8a1874?style=flat-square&logo=adobepremierepro&logoColor=fff)
