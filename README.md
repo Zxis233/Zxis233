@@ -26,7 +26,7 @@
 
 <!-- [//]:(&title_color=35ffba&text_color=feeeed) -->
 
-## I'm **Mix** 🤩
+## I'm <u>Mix</u> 🤩
 
 - 🔭 I’m curious about **everything** !
 
@@ -34,7 +34,11 @@
 
 <br/>
 
-## **My Skills** 🌟  
+## My <u>Contributions</u> 🚀
+
+[Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
+
+## **My <u>Skills</u>** 🌟
 
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=000)
