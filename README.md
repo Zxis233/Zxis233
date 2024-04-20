@@ -38,6 +38,8 @@
 
 [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
 
+[MrTroot/autofish](https://github.com/MrTroot/autofish)
+
 <br/>
 
 ## **My <u>Skills</u>** 🌟
