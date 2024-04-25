@@ -36,9 +36,11 @@
 
 ## My <u>Contributions</u> 🚀
 
-[Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
+[Keldos-Li/typora-latex-theme: A theme disguising Typora into Chinese LaTeX style](https://github.com/Keldos-Li/typora-latex-theme)
 
-[MrTroot/autofish](https://github.com/MrTroot/autofish)
+[MrTroot/autofish: A Minecraft Autofish mod for the Fabric and Forge mod loaders](https://github.com/MrTroot/autofish)
+
+[latorc/MahjongCopilot: In-game step-by-step AI Assistant for Maj-soul](https://github.com/latorc/MahjongCopilot)
 
 <br/>
 
