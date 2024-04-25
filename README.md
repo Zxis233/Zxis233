@@ -34,16 +34,6 @@
 
 <br/>
 
-## My <u>Contributions</u> 🚀
-
-[Keldos-Li/typora-latex-theme: A theme disguising Typora into Chinese LaTeX style](https://github.com/Keldos-Li/typora-latex-theme)
-
-[MrTroot/autofish: A Minecraft Autofish mod for the Fabric and Forge mod loaders](https://github.com/MrTroot/autofish)
-
-[latorc/MahjongCopilot: In-game step-by-step AI Assistant for Maj-soul](https://github.com/latorc/MahjongCopilot)
-
-<br/>
-
 ## **My <u>Skills</u>** 🌟
 
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
@@ -62,3 +52,15 @@
 ![](https://img.shields.io/badge/-PremierPro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=fff)
 ![](https://img.shields.io/badge/-Hexo-0E83CD?style=flat-square&logo=hexo&logoColor=fff)
 ![](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=hexo&logoColor=fff)
+
+<br/>
+
+## My <u>Contributions</u> 🚀
+
+[Keldos-Li/typora-latex-theme: A theme disguising Typora into Chinese LaTeX style](https://github.com/Keldos-Li/typora-latex-theme)
+
+[MrTroot/autofish: A Minecraft Autofish mod for the Fabric and Forge mod loaders](https://github.com/MrTroot/autofish)
+
+[latorc/MahjongCopilot: In-game step-by-step AI Assistant for Maj-soul](https://github.com/latorc/MahjongCopilot)
+
+
