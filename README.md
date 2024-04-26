@@ -65,4 +65,6 @@
 
 [nonebot/nonebot2: Asynchronous multi-platform chatbot framework written in Python](https://github.com/nonebot/nonebot2)
 
+[nonebot/adapter-onebot: OneBot adapter for nonebot2](https://github.com/nonebot/adapter-onebot)
+
 
