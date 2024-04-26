@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/-Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=fff)
 ![](https://img.shields.io/badge/-PremierPro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=fff)
 ![](https://img.shields.io/badge/-Hexo-0E83CD?style=flat-square&logo=hexo&logoColor=fff)
-![](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=hexo&logoColor=fff)
+![](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=fff)
 
 <br/>
 
@@ -62,5 +62,7 @@
 [MrTroot/autofish: A Minecraft Autofish mod for the Fabric and Forge mod loaders](https://github.com/MrTroot/autofish)
 
 [latorc/MahjongCopilot: In-game step-by-step AI Assistant for Maj-soul](https://github.com/latorc/MahjongCopilot)
+
+[nonebot/nonebot2: Asynchronous multi-platform chatbot framework written in Python](https://github.com/nonebot/nonebot2)
 
 
