@@ -34,7 +34,7 @@
 
 <br/>
 
-## **My <u>Skills</u>** 🌟
+### **My <u>Skills</u>** 🌟
 
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=000)
