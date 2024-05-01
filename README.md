@@ -57,6 +57,8 @@
 
 ## My <u>Contributions</u> 🚀
 
+[MetaCubeX/ClashMetaForAndroid: A rule-based tunnel for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)
+
 [Keldos-Li/typora-latex-theme: A theme disguising Typora into Chinese LaTeX style](https://github.com/Keldos-Li/typora-latex-theme)
 
 [MrTroot/autofish: A Minecraft Autofish mod for the Fabric and Forge mod loaders](https://github.com/MrTroot/autofish)
