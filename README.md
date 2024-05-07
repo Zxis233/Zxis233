@@ -57,13 +57,15 @@
 
 ## My <u>Contributions</u> 🚀
 
-[MetaCubeX/ClashMetaForAndroid: A rule-based tunnel for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)
+**[MetaCubeX/ClashMetaForAndroid: A rule-based tunnel for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)**
 
-[Keldos-Li/typora-latex-theme: A theme disguising Typora into Chinese LaTeX style](https://github.com/Keldos-Li/typora-latex-theme)
+**[Keldos-Li/typora-latex-theme: A theme disguising Typora into Chinese LaTeX style](https://github.com/Keldos-Li/typora-latex-theme)**
+
+**[latorc/MahjongCopilot: In-game step-by-step AI Assistant for Maj-soul](https://github.com/latorc/MahjongCopilot)**
+
+[Xerxes-2/MajsoulMax-rs: Unlock Majsoul by MITM](https://github.com/Xerxes-2/MajsoulMax-rs)
 
 [MrTroot/autofish: A Minecraft Autofish mod for the Fabric and Forge mod loaders](https://github.com/MrTroot/autofish)
-
-[latorc/MahjongCopilot: In-game step-by-step AI Assistant for Maj-soul](https://github.com/latorc/MahjongCopilot)
 
 [nonebot/nonebot2: Asynchronous multi-platform chatbot framework written in Python](https://github.com/nonebot/nonebot2)
 
