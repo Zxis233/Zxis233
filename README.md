@@ -6,7 +6,7 @@
 ## My Stats 🥰
 
 <a>
-  <img align="right" width="450px" src="./github-metrics.svg" />
+  <img align="right" width="400px" src="./github-metrics.svg" />
 </a>
 <br/>
 <p align="center">
