@@ -6,15 +6,15 @@
 ## My Stats 🥰
 
 <a>
-  <img align="right" width="400px" src="./github-metrics.svg" />
+  <img align="right" width="450px" src="./github-metrics.svg" />
 </a>
 <br/>
-<p align="left">
+<p align="center">
   <img width="300px" src="https://count.getloli.com/get/@Zxis233?theme=rule34"></img>
 </img>
 </p>
 <br/>
-<p align="left">
+<p align="center">
   <img width="300px" src="https://mystats-rosy.vercel.app/api/top-langs/?username=Zxis233&layout=compact&theme=transparent"></img>
 </p>
 <br/>
