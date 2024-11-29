@@ -5,7 +5,6 @@
 
 ## My Stats 🥰
 
-<br/>
 <a>
   <img align="right" width="450px" src="./github-metrics.svg" />
 </a>
