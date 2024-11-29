@@ -40,6 +40,7 @@
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=000)
 ![](https://img.shields.io/badge/-OpenWRT-00B5E2?style=flat-square&logo=openwrt&logoColor=fff)
 ![](https://img.shields.io/badge/-ESP32C3-E7352C?style=flat-square&logo=espressif&logoColor=fff)
+![](https://img.shields.io/badge/-latex-008080?style=flat-square&logo=latex&logoColor=fff)
 ![](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=fff)
@@ -50,8 +51,10 @@
 ![](https://img.shields.io/badge/-CSS-F43059?style=flat-square&logo=csswizardry&logoColor=fff)
 ![](https://img.shields.io/badge/-Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=fff)
 ![](https://img.shields.io/badge/-PremierPro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=fff)
+![](https://img.shields.io/badge/-cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=fff)
 ![](https://img.shields.io/badge/-Hexo-0E83CD?style=flat-square&logo=hexo&logoColor=fff)
 ![](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=fff)
+![](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 
 <br/>
 
