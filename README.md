@@ -30,7 +30,7 @@
 
 - 🔭 I’m curious about **everything** !
 
-- 🌱 I’m currently learning: Go !
+- 🌱 I’m currently learning: **SystemVerilog** and **CHISEL** !
 
 <br/>
 
