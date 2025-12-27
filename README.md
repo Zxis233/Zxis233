@@ -15,7 +15,7 @@
 </p>
 <br/>
 <p align="center">
-  <img width="300px" src="https://mystats-rosy.vercel.app/api/top-langs/?username=Zxis233&layout=compact&langs_count=8&theme=transparent&size_weight=0.4&count_weight=0.6&exclude_repo=images,GraduationProject,zxis233.github.io,MyUnlocker,yeshu-generator"></img>
+  <img width="300px" src="https://mystats-rosy.vercel.app/api/top-langs/?username=Zxis233&layout=compact&langs_count=8&theme=transparent&size_weight=0.4&count_weight=0.6&exclude_repo=images,GraduationProject,zxis233.github.io,MyUnlocker,yeshu-generator,surfer"></img>
 </p>
 <br/>
 
