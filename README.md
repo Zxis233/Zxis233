@@ -15,14 +15,14 @@
 </p>
 <br/>
 <p align="center">
-  <img width="300px" src="https://mystats-rosy.vercel.app/api/top-langs/?username=Zxis233&layout=compact&langs_count=8&theme=transparent&size_weight=0.4&count_weight=0.6&exclude_repo=images,GraduationProject,zxis233.github.io,MyUnlocker,yeshu-generator,surfer"></img>
+  <img width="300px" src="https://stats.esing.dev/api/top-langs/?username=Zxis233&layout=compact&langs_count=8&theme=transparent&size_weight=0.4&count_weight=0.6&exclude_repo=images,GraduationProject,zxis233.github.io,MyUnlocker,yeshu-generator,surfer"></img>
 </p>
 <br/>
 
 <!-- linear-gradient(111deg,#44a08d,#093637)-->
 <!-- linear-gradient(111deg,#8e9eab,#eef2f3)-->
 
-<!-- [![Esing's GitHub stats](https://mystats-rosy.vercel.app/api?username=Zxis233&count_private=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Esing's GitHub stats](https://stats.esing.dev/api?username=Zxis233&count_private=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [//]:(&title_color=35ffba&text_color=feeeed) -->
 
