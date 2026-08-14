@@ -62,6 +62,8 @@
 
 **[MetaCubeX/ClashMetaForAndroid: A rule-based tunnel for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)**
 
+**[CPA-Manager-Plus: A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard.](https://github.com/seakee/CPA-Manager-Plus)**
+
 **[Keldos-Li/typora-latex-theme: A theme disguising Typora into Chinese LaTeX style](https://github.com/Keldos-Li/typora-latex-theme)**
 
 **[latorc/MahjongCopilot: In-game step-by-step AI Assistant for Maj-soul](https://github.com/latorc/MahjongCopilot)**
